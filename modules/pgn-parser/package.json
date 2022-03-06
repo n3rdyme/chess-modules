@@ -1,7 +1,7 @@
 {
   "name": "@chess-fu/pgn-parser",
   "access": "public",
-  "version": "1.1.2",
+  "version": "1.1.3",
   "description": "Chess PGN parser for 8x8 chess games for import or export standards",
   "author": "chess-fu.com",
   "license": "MIT",
